@@ -1,0 +1,158 @@
+
+
+.topdar{
+    width:1907px;
+    height:40px;
+    background:#1c0400;
+    color:#fff;
+    box-sizing:border-box;
+}
+.topdar .width{
+    height:40px;
+    width:1200px;
+    margin:0 auto;
+    
+}
+.topdar .width .fl{
+    width:308px;
+    height:40px;
+    font-size:14px;
+    text-align:center;
+    float: left;
+    line-height:40px;
+    
+}
+.topdar .width .fr{
+    width:143px;
+    height:40px;
+    float:right;
+    font-size:14px;
+    
+}
+.topdar .width .fr a{
+    width:56px;
+    height:40px;
+    color:#fff;
+    text-decoration:none;
+    display:inline-block;
+    line-height:40px; 
+    font-size:14px;  
+}
+.topdar .width .fr a:hover{
+    color:yellow;
+}
+.header{
+    width:1200px;
+    height:148px;
+    margin:0 auto;
+} 
+.header .men1 #d1{
+    width:229px;
+    height:110px;
+    float:right;
+    background:url('../theme/20170101/images/icon_tel.gif')no-repeat;
+    line-height:80px;
+    box-sizing: border-box;
+    background-position-y:50%;
+}
+.header .men1 #d1 span{
+    float:right;
+    width:170px;
+    height:24px;
+    font-size:14px;
+}
+.header .men1 #d1 p{
+    float:right;
+    width:170px;
+    height:31px;
+    font-size:22px;
+    color:#f60;
+}
+.clear{
+    clear: both;
+}
+a{
+    text-decoration: none;
+    font-family:microsoft yahei;
+}
+.nav{
+    width:1907px;
+    height:50px;
+    background:#610e00;
+}
+.width{
+    width:1200px;
+    height:50px;
+    margin:0 auto;
+}
+.nav .width>ul{
+    width:941px;
+    height:50px;
+    float:left;
+    box-sizing:border-box;
+}
+.nav .width ul li{
+    float:left;
+}
+li{
+    width:114px;height:50px;
+    text-align:center;
+    line-height:48px;
+}
+.nav .width ul ul li{
+    display: none;
+    border-bottom:1px solid #610e00;
+}
+.nav .width ul li:hover{
+    background:#1c0400;
+}
+.nav .width ul li:hover li{
+    width:160px;height:50px;
+    background:#1c0400;
+    display: block;
+    line-height:41px;
+    padding-right:43px;
+}
+.nav .width ul li a{
+    color:#fff;
+    font-size:16px; 
+}
+.nav .width ul li ul li:hover{
+    background:#eead15;
+}
+
+
+
+
+/*********************************************/
+
+
+
+/********************/
+
+
+/* 搜索框 */
+.get{
+    whdth:251px;height:43px;
+    float:right;
+    /* margin-top:8px; */
+    line-height:48px;
+    
+}
+.inp{
+    width:183px ;height:35px ;
+    border:0;
+    border-top-left-radius:20px;
+    border-bottom-left-radius:20px;
+    padding:8px 10px 8px 20px;
+    box-sizing: border-box;
+    margin:-5px;
+}
+/*搜索按钮 */
+.button{
+    width:68px;height:35.8px;
+    background: #1c0400;
+    color:#fff;
+    border: 0px;
+    box-sizing:border-box;
+}

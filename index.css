@@ -1,0 +1,80 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+    text-decoration:none;
+}
+
+
+#body2 .topdar{
+    width:1907px;
+    height:40px;
+    background:#1c0400;
+    color:#fff;
+    box-sizing:border-box;
+}
+#body2 .topdar .width{
+    height:40px;
+    width:1200px;
+    margin:0 auto;
+    
+}
+#body2 .topdar .width .fl{
+    width:308px;
+    height:40px;
+    font-size:14px;
+    text-align:center;
+    float: left;
+    line-height:40px;
+    
+}
+#body2 .topdar .width .fr{
+    width:143px;
+    height:40px;
+    float:right;
+    font-size:14px;
+    
+}
+#body2 .topdar .width .fr a{
+    width:56px;
+    height:40px;
+    color:#fff;
+    text-decoration:none;
+    display:inline-block;
+    line-height:40px; 
+    font-size:14px;  
+}
+#body2 .topdar .width .fr a:hover{
+    color:yellow;
+}
+#body2 .header{
+    width:1200px;
+    height:148px;
+    margin:0 auto;
+} 
+#body2 .header .men1 #d1{
+    width:229px;
+    height:110px;
+    float:right;
+    background:url('../theme/20170101/images/icon_tel.gif')no-repeat;
+    line-height:80px;
+    box-sizing: border-box;
+    background-position-y:50%;
+}
+#body2 .header .men1 #d1 span{
+    float:right;
+    width:170px;
+    height:24px;
+    font-size:14px;
+}
+#body2 .header .men1 #d1 p{
+    float:right;
+    width:170px;
+    height:31px;
+    font-size:22px;
+    color:#f60;
+}
+#body2 .clear{
+    clear: both;
+}
+
